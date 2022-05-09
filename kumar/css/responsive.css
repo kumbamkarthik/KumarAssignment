@@ -1,0 +1,134 @@
+@media only screen and (max-width: 1160px){
+    .container{width: 100%; margin: 0 auto;padding: 0 20px;}
+    .about_content {padding: 40px 0 47px 0;}
+    .tab-wrapper{padding: 0;}
+    .contect_main {padding: 0 100px !important;}
+    .contect_main {left: 60%;}
+    .tab-wrapper {width: 95%;}
+}
+@media only screen and (max-width: 1024px){
+    .container{width: 100%; margin: 0 auto;padding: 0 15px;}
+    .blog_content ul li{width: 260px;}
+}
+@media only screen and (max-width: 991px){
+    .container {width: 100%;margin: 0 auto;padding: 0 15px;}
+    .tab-wrapper {width: 100%;}
+    .work_list ul li img {border-radius: 18px;width: 150px;}
+    .blog_content ul li {width: 33.3%;}
+    .blog_content ul li {margin: 0 5px;}
+    .blog_content ul li h3{font-size: 18px;}
+    .contect_main {padding: 0 15px !important;}
+    .contact_left {width: 45%;padding: 0 15px 0 10px;}
+    .contact_right {width: 50%;padding: 0 0 0 60px;}
+    .blog_content ul li p{font-size: 15px;}
+    .blog_content ul li p{height: 230px !important;}
+    .blog_content ul li{height: 356px;}
+    .about_img img{width: 300px;}
+    .about_img {width: 40%;}
+    .about_cnt{width: 60%;}
+    .Skills {width: 425px;}
+    .Skills ul li {padding: 0 0px 3px 25px;font-size: 14px;}
+    .about_cnt h3 {padding: 0px 0 10px 0;}
+    .about_cnt {padding: 15px 0px 0 20px;}
+    .work_main h2:after{left: 58%;}
+    .blog_main h2:after{left: 57%;}
+    
+}
+@media only screen and (max-width: 768px){
+    .container {padding: 0 15px;}
+    .hero_img img{width: 180px;height: 180px;}
+    .hero_img h2 {font-size: 30px;}
+    .hero_img span{font-size: 22px;}
+    .hero_img h2{padding: 15px 0 0 0;}
+    .hero_list p:before{height: 50px;top: -17px;left: 130px;}
+    .hero_list ul {margin: 0 0 100px 0;}
+    .hero_list p{font-size: 10px;}
+    .about_content{display: block !important;text-align: center;}
+    .about_img {width: 100%;}
+    .about_cnt {width: 100%;padding: 15px 0px 0 0px;text-align: left;}
+    .work_list ul li{width: 30%;}
+    .blog_content ul li{width: 50%;}
+    .contact_list{display: block;text-align: center;}
+    .contact_left{width: 100%;}
+    .contact_right{width: 100%;padding: 60px 0 0 0;}
+    .blog_content ul li {height: 376px;}
+    .contact_left h3{text-align: center;}
+    .contact_left ul{width: 280px;margin: 0 auto;}
+    .contact_left ul li{margin: 0 auto;text-align: center;padding: 0;}
+    .contact {padding: 45px 0 60px 0;}
+    .contact_left p {padding: 15px 30px 27px 30px;}
+    
+}
+@media only screen and (max-width: 599px){
+     .container {padding: 0 15px;}
+    .menu ul{width: 80%;}
+    .work_list ul li {width: 49%;}
+    .blog_content ul{display: block;}
+    .blog_content ul li{width: 100%;height: 100%;margin: 15px 0;}
+    .blog_content ul li p {
+    height: 150px !important;padding: 17px 0 0 0;}
+    .footer_nav ul li{padding:0 15px;}
+    .about_cnt h3{font-size: 30px;}
+    .about_cnt h2{font-size: 20px;}
+    .about_cnt h2:after{left: 79px;width: 50px;}
+    .hero_list {left: -2%;}
+    .work_main h2{font-size: 20px;}
+    .work_main h2:after{left: 60%;width: 50px;}
+    .my_works {padding: 45px 0 40px 0;}
+    .blog_main h2{font-size: 20px;}
+    .blog_main h2:after{left: 62%;width: 50px;}
+    .blog_content {padding: 17px 0 30px 0;}
+    .contect_main h2{font-size: 20px;}
+    .contect_main h2:after{left: 66%;width: 50px;}
+    .contact_left h3{font-size: 30px;}
+    .contact_list{padding: 30px 0 0 0;}
+    .footer_nav h2{font-size: 30px;}
+    .about_content {padding: 25px 0 47px 0;}
+    .footer_nav p{padding: 16px 0 10px 0;}
+    .footer_nav {padding: 25px 0 0 0;}   
+}
+@media only screen and (max-width: 479px){
+    .container {padding: 0 15px;}
+    .nav ul li a{font-size: 12px;padding: 0 8px;   }
+    .hero_list {left: -5%;top: 8%;}
+    .nav{justify-content:center;}
+    .hero_img img {width: 150px;height: 150%;}
+    .hero_list ul li img {width: 20px;height: 20px;}
+    .hero_list ul li {padding: 0 0 12px 0;}
+    .hero_img h2 {font-size: 25px;}
+    .hero_img span {font-size: 19px;line-height: 22px;}
+    banner{padding: 30px 0 85px 0;}
+    .hero_list p {font-size: 8px;}
+    .hero_list ul {margin: 0 0 80px 0;}
+    .hero_list p:before {height: 40px;top: -11px;left: 104px;}
+    .about_img img {width: 250px;}
+    .Skills ul li {padding: 0 0px 3px 18px;font-size: 10px;}
+    .Skills {width: 285px;}
+    .about_cnt p{font-size: 14px;}
+    .menu ul {width: 100%;font-size: 15px;}
+    .work_list ul li img {border-radius: 14px;width: 120px;}
+    .blog_content ul li{padding: 20px 15px 24px 15px;}
+    .about_cnt h3 {font-size: 25px;}
+    .contact_left h3 {font-size: 25px;line-height: 30px;}
+    .contact_left p {padding: 15px 0 27px 0;font-size: 13px;line-height: 20px;}
+    .contact_left{padding: 0px;}
+    .contact_left ul {width: 270px;}
+    .fname {width: 270px;height: 40px;}
+    .email{width: 270px;height: 40px;}
+    .subject{width: 270px;height: 80px;}
+    .contact_right{padding: 45px 0 0 0;}
+    .footer_nav ul li {padding: 0px 6px;font-size: 13px;}
+    .footer_nav h2 {font-size: 25px;}
+    .about_cnt p span{font-size: 20px;}
+    .nav{font-size: 18px;}
+    .work_main h2:after {left: 64%;width: 40px;}
+    .blog_main h2 {font-size: 18px;}
+    .blog_main h2:after {left: 64%;width: 40px;}
+    .contect_main h2 {font-size: 18px;}
+    .contect_main h2:after {left: 69%;width: 40px;}
+    .about_cnt h2 {font-size: 18px;}
+    .about_cnt h2:after {left: 66px;width: 40px;}
+   .about_content {padding: 25px 0 30px 0;}
+    .my_works {padding: 40px 0 15px 0;}
+    .blog {padding: 30px 0 0px 0;}    
+}
